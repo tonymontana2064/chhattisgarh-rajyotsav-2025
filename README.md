@@ -3,7 +3,7 @@
 A responsive blog website celebrating Chhattisgarh Rajyotsav 2025, highlighting the role of digital media and citizen journalism in cultural preservation.
 
 ## Live Demo
-Visit: https://[your-username].github.io/chhattisgarh-rajyotsav-2025/
+Visit: https://tonymontana2064.github.io/chhattisgarh-rajyotsav-2025/
 
 ## Features
 - Responsive design for all devices
